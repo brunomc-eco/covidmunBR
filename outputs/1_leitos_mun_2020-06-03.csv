@@ -1,0 +1,390 @@
+"Estado","Município","codmun","respiradores","leitos_covid","leitos_covid_uti","ocupacao_covid","ocupacao_covid_uti"
+"AL","Campo Alegre",2701407,0,0,0,17,0
+"AL","Maceió",2704302,13,0,14,12,11
+"AL","Santana do Ipanema",2708006,14,2,1,4,1
+"AM","Atalaia do Norte",1300201,0,0,0,4,0
+"AM","Carauari",1301001,1,0,0,0,0
+"AM","Guajará",1301654,0,0,0,0,0
+"AM","Manaus",1302603,72,0,0,8,0
+"BA","Barra do Choça",2902906,0,0,0,0,0
+"BA","Barreiras",2903201,70,0,0,12,3
+"BA","Carinhanha",2907103,1,0,0,0,0
+"BA","Feira de Santana",2910800,79,0,0,5,2
+"BA","Guanambi",2911709,1,0,0,0,0
+"BA","Ilhéus",2913606,13,0,0,7,3
+"BA","Irecê",2914604,36,0,0,0,3
+"BA","Itabuna",2914802,8,0,0,9,7
+"BA","Iuiu",2917334,0,0,0,0,0
+"BA","Jequié",2918001,15,0,0,13,14
+"BA","Malhada",2920205,0,0,0,0,0
+"BA","Matina",2921054,0,0,0,0,0
+"BA","Palmas de Monte Alto",2923407,0,0,0,0,0
+"BA","Paulo Afonso",2924009,2,0,0,5,0
+"BA","Pindaí",2924504,1,0,0,0,0
+"BA","Piripá",2924702,0,0,0,0,0
+"BA","Remanso",2926004,1,0,0,2,5
+"BA","Rio de Contas",2926707,0,0,0,0,0
+"BA","Salvador",2927408,236,130,108,241,125
+"BA","Santa Rita de Cássia",2928406,2,0,0,1,0
+"BA","Sebastião Laranjeiras",2930006,0,0,0,0,0
+"BA","Serrinha",2930501,0,0,0,0,0
+"BA","Urandi",2932606,1,0,0,1,0
+"BA","Utinga",2932804,1,0,0,0,0
+"CE","Alto Santo",2300705,0,6,0,2,0
+"CE","Barreira",2301950,1,0,0,1,0
+"CE","Brejo Santo",2302503,1,34,7,0,6
+"CE","Cedro",2303808,0,12,0,1,0
+"CE","Crateús",2304103,2,46,10,31,9
+"CE","Farias Brito",2304301,1,12,0,0,0
+"CE","Fortaleza",2304400,86,0,0,181,107
+"CE","Hidrolândia",2305209,0,0,0,0,0
+"CE","Jati",2307205,0,7,0,0,0
+"CE","Limoeiro do Norte",2307601,1,0,0,12,8
+"CE","Umari",2313708,0,21,0,0,0
+"ES","Afonso Cláudio",3200102,1,0,0,2,0
+"ES","Iúna",3203007,3,0,0,1,0
+"ES","Muniz Freire",3203700,1,0,0,1,0
+"ES","Santa Maria de Jetibá",3204559,5,0,0,3,0
+"ES","Vitória",3205309,111,0,0,34,32
+"GO","Acreúna",5200134,2,0,0,0,0
+"GO","Americano do Brasil",5200852,0,0,0,0,0
+"GO","Aparecida de Goiânia",5201405,16,0,5,0,1
+"GO","Britânia",5203807,0,0,0,0,0
+"GO","Campo Alegre de Goiás",5204805,1,0,0,0,0
+"GO","Catalão",5205109,12,0,0,0,0
+"GO","Chapadão do Céu",5205471,0,0,0,0,0
+"GO","Córrego do Ouro",5205703,1,0,0,0,0
+"GO","Corumbaíba",5205901,1,0,0,0,0
+"GO","Crixás",5206404,0,0,0,0,0
+"GO","Firminópolis",5207808,1,0,0,0,0
+"GO","Goiânia",5208707,172,40,70,28,43
+"GO","Itajá",5210802,0,0,0,0,0
+"GO","Jandaia",5211701,1,0,0,0,0
+"GO","Jaraguá",5211800,1,0,0,0,0
+"GO","Maurilândia",5213004,0,0,0,0,0
+"GO","Minaçu",5213087,5,0,0,0,0
+"GO","Montividiu",5213756,1,0,0,1,0
+"GO","Ouvidor",5215504,0,0,0,0,0
+"GO","Trindade",5221403,12,0,6,2,1
+"GO","Turvelândia",5221551,0,0,0,0,0
+"MA","Colinas",2103505,3,0,0,0,0
+"MA","Imperatriz",2105302,10,44,30,62,25
+"MA","Sucupira do Riachão",2111953,0,0,0,0,0
+"MG","Araxá",3104007,10,57,14,5,3
+"MG","Arceburgo",3104106,1,0,0,0,0
+"MG","Ataléia",3104700,1,0,0,0,0
+"MG","Bambuí",3105103,3,0,0,0,0
+"MG","Barbacena",3105608,79,32,31,5,6
+"MG","Barroso",3105905,2,14,0,0,0
+"MG","Belo Horizonte",3106200,192,185,36,56,26
+"MG","Betim",3106705,73,50,50,0,37
+"MG","Campo do Meio",3111309,1,0,0,0,0
+"MG","Capitólio",3112802,1,0,0,0,0
+"MG","Caratinga",3113404,11,13,0,0,0
+"MG","Cláudio",3116605,2,0,0,0,0
+"MG","Coração de Jesus",3118809,1,0,0,0,0
+"MG","Cruzília",3120805,1,16,0,0,0
+"MG","Entre Rios de Minas",3123908,2,0,0,0,0
+"MG","Ervália",3124005,2,10,0,0,0
+"MG","Esmeraldas",3124104,2,0,0,0,1
+"MG","Governador Valadares",3127701,15,0,0,0,0
+"MG","Gurinhatã",3129103,1,0,0,0,0
+"MG","Itabira",3131703,15,51,12,0,0
+"MG","Itaguara",3132206,0,0,0,2,0
+"MG","Itajubá",3132404,9,10,1,2,6
+"MG","Itapecerica",3133501,2,0,0,0,0
+"MG","Janaúba",3135100,16,46,5,2,1
+"MG","Juiz de Fora",3136702,67,40,5,11,2
+"MG","Ladainha",3137007,0,0,0,0,0
+"MG","Leopoldina",3138401,8,10,5,2,4
+"MG","Machacalis",3138906,1,0,0,0,0
+"MG","Manhuaçu",3139409,14,50,10,2,9
+"MG","Mariana",3140001,3,10,0,0,0
+"MG","Mercês",3141603,0,0,0,0,0
+"MG","Miraí",3142205,0,0,0,0,0
+"MG","Montes Claros",3143302,74,96,36,1,3
+"MG","Muriaé",3143906,9,0,0,0,0
+"MG","Muzambinho",3144102,1,0,0,1,0
+"MG","Patos de Minas",3148004,22,31,20,0,0
+"MG","Pedra Azul",3148707,0,24,0,2,0
+"MG","Pirapora",3151206,9,28,5,3,2
+"MG","Poços de Caldas",3151800,32,28,8,1,1
+"MG","Pompéu",3152006,3,0,0,0,0
+"MG","Prados",3152709,1,0,0,0,0
+"MG","Resende Costa",3154200,1,0,0,0,0
+"MG","Rio Pomba",3155801,3,19,0,0,0
+"MG","Santos Dumont",3160702,4,18,9,0,0
+"MG","São Domingos do Prata",3161007,1,0,0,0,0
+"MG","São João Batista do Glória",3162203,1,0,0,0,0
+"MG","São João del Rei",3162500,22,14,10,0,8
+"MG","São João do Paraíso",3162708,0,0,0,0,0
+"MG","São Pedro da União",3163904,1,0,0,0,0
+"MG","São Tiago",3165008,1,0,0,0,0
+"MG","São Vicente de Minas",3165305,2,0,0,0,0
+"MG","Senador Firmino",3165701,0,0,0,0,0
+"MG","Serro",3167103,0,14,0,1,0
+"MG","Teófilo Otoni",3168606,7,0,0,6,2
+"MG","Ubá",3169901,6,0,0,5,0
+"MG","Uberaba",3170107,93,0,0,0,2
+"MG","Uberlândia",3170206,96,157,66,32,17
+"MG","Virgínia",3171709,1,0,0,0,0
+"MG","Visconde do Rio Branco",3172004,10,31,10,6,3
+"MS","Brasilândia",5002308,0,5,0,0,0
+"MS","Camapuã",5002605,0,22,0,0,0
+"MS","Cassilândia",5002902,2,14,0,0,0
+"MS","Coxim",5003306,4,30,0,2,0
+"MS","Dourados",5003702,23,26,10,1,0
+"MS","Nova Andradina",5006200,15,32,18,0,0
+"MS","Paranaíba",5006309,6,20,0,1,1
+"MS","São Gabriel do Oeste",5007695,0,28,0,1,0
+"MS","Sidrolândia",5007901,4,10,5,0,0
+"MT","Campos de Júlio",5102686,1,0,0,0,0
+"MT","Cuiabá",5103403,29,5,16,2,8
+"MT","Juína",5105150,1,0,0,0,0
+"MT","Lucas do Rio Verde",5105259,26,0,0,6,0
+"MT","Poxoréu",5107008,5,0,0,0,0
+"MT","Querência",5107065,0,0,0,2,0
+"MT","Rondonópolis",5107602,24,36,2,9,7
+"PA","Ananindeua",1500800,3,91,10,0,3
+"PA","Belém",1501402,28,0,0,4,3
+"PA","Breves",1501808,26,0,0,4,3
+"PA","Conceição do Araguaia",1502707,5,0,0,2,0
+"PA","Garrafão do Norte",1503077,1,0,0,5,0
+"PA","Redenção",1506138,31,0,0,5,2
+"PA","Santarém",1506807,30,0,0,9,40
+"PB","Itabaiana",2506905,1,0,0,2,0
+"PB","João Pessoa",2507507,21,0,0,4,0
+"PE","Calumbi",2603405,0,3,0,0,0
+"PE","Caruaru",2604106,50,56,30,44,34
+"PE","Custódia",2605103,0,8,0,0,0
+"PE","Feira Nova",2605400,0,0,0,1,0
+"PE","Garanhuns",2606002,30,10,1,5,3
+"PE","Itacuruba",2607406,0,2,0,0,0
+"PE","Lagoa Grande",2608750,0,6,0,0,0
+"PE","Recife",2611606,122,12,29,40,51
+"PE","Salgueiro",2612208,6,9,6,4,3
+"PE","Santa Cruz do Capibaribe",2612505,0,0,0,1,0
+"PE","São José do Egito",2613602,2,0,0,1,0
+"PE","Serra Talhada",2613909,5,13,0,6,0
+"PE","Terezinha",2615102,0,0,0,0,0
+"PE","Triunfo",2615706,0,5,0,0,0
+"PE","Verdejante",2616100,0,5,0,0,0
+"PI","Amarante",2200509,0,2,0,0,0
+"PI","Curimatá",2203206,0,9,0,0,0
+"PI","Elesbão Veloso",2203503,0,5,0,3,0
+"PI","Esperantina",2203701,1,10,0,4,0
+"PI","Luzilândia",2205805,1,6,0,1,0
+"PI","Oeiras",2207009,2,0,0,1,0
+"PI","São João do Piauí",2210003,0,13,0,0,0
+"PI","Teresina",2211001,77,81,25,41,30
+"PR","Assis Chateaubriand",4102000,14,18,10,13,6
+"PR","Bituruna",4102901,1,0,0,0,0
+"PR","Boa Vista da Aparecida",4103057,1,0,0,0,0
+"PR","Campina da Lagoa",4103909,0,0,0,0,0
+"PR","Cascavel",4104808,14,0,0,1,0
+"PR","Céu Azul",4105300,0,0,0,0,0
+"PR","Cianorte",4105508,14,13,6,5,3
+"PR","Colorado",4105904,2,25,10,2,4
+"PR","Dois Vizinhos",4107207,0,0,0,0,0
+"PR","Formosa do Oeste",4108205,0,0,0,0,0
+"PR","Francisco Beltrão",4108403,8,0,0,1,0
+"PR","Guarapuava",4109401,40,40,10,7,7
+"PR","Ibiporã",4109807,2,0,0,0,0
+"PR","Ivaí",4111407,4,0,0,0,0
+"PR","Ivaiporã",4111506,9,4,2,1,0
+"PR","Laranjeiras do Sul",4113304,1,0,0,1,2
+"PR","Mangueirinha",4114401,1,0,0,0,0
+"PR","Marechal Cândido Rondon",4114609,1,0,0,0,0
+"PR","Maringá",4115200,15,59,35,3,6
+"PR","Pato Branco",4118501,15,10,5,3,2
+"PR","Ponta Grossa",4119905,1,0,0,0,0
+"PR","Rio Negro",4122305,1,0,0,1,0
+"PR","Rolândia",4122404,4,0,0,1,0
+"PR","Sarandi",4126256,28,29,14,5,5
+"PR","Toledo",4127700,9,8,16,5,6
+"PR","União da Vitória",4128203,24,12,6,3,2
+"RJ","Aperibé",3300159,2,0,0,0,0
+"RJ","Barra do Piraí",3300308,9,0,0,3,0
+"RJ","Campos dos Goytacazes",3301009,35,0,0,0,7
+"RJ","Conceição de Macabu",3301405,2,0,0,1,2
+"RJ","Duas Barras",3301603,1,0,0,0,0
+"RJ","Itaboraí",3301900,10,0,0,0,0
+"RJ","Niterói",3303302,17,0,0,1,2
+"RJ","Piraí",3304003,6,0,0,3,0
+"RJ","Rio Claro",3304409,9,0,0,0,0
+"RJ","Três Rios",3306008,15,0,0,0,6
+"RN","Alexandria",2400505,1,0,0,2,0
+"RN","Mossoró",2408003,20,0,0,2,2
+"RN","Natal",2408102,55,0,0,16,17
+"RS","Arroio Grande",4301305,2,0,0,1,0
+"RS","Caxias do Sul",4305108,57,22,6,0,0
+"RS","Cerro Largo",4305207,1,0,0,0,0
+"RS","Farroupilha",4307906,12,7,2,6,0
+"RS","Garibaldi",4308607,2,0,0,1,6
+"RS","Muçum",4312609,1,0,0,0,0
+"RS","Nova Bréscia",4313003,0,0,0,0,0
+"RS","Passo Fundo",4314100,40,32,17,16,9
+"RS","Pelotas",4314407,59,0,0,4,2
+"RS","Piratini",4314605,2,0,0,1,0
+"RS","Planalto",4314704,3,0,0,0,0
+"RS","Porto Alegre",4314902,7,19,3,0,0
+"RS","Rio Grande",4315602,33,25,2,0,0
+"RS","Ronda Alta",4316105,2,0,0,0,0
+"RS","Salvador do Sul",4316501,1,0,0,0,0
+"RS","Santo Antônio da Patrulha",4317608,4,0,0,0,0
+"RS","São Francisco de Assis",4318101,3,0,0,0,0
+"RS","São Gabriel",4318309,17,20,3,10,3
+"RS","São Marcos",4319000,5,0,0,2,0
+"RS","Serafina Corrêa",4320404,2,0,0,0,0
+"RS","Tenente Portela",4321402,15,11,2,5,1
+"RS","Teutônia",4321451,3,0,0,0,0
+"RS","Venâncio Aires",4322608,21,9,3,5,8
+"SC","Blumenau",4202404,83,187,38,7,7
+"SC","Braço do Norte",4202800,3,33,0,3,0
+"SC","Curitibanos",4204806,17,42,7,1,2
+"SC","Descanso",4204905,0,0,0,0,0
+"SC","Florianópolis",4205407,73,102,27,15,1
+"SC","Guaraciaba",4206405,3,0,0,0,0
+"SC","Imbituba",4207304,6,26,0,2,0
+"SC","Ituporanga",4208500,10,19,1,1,1
+"SC","Joinville",4209102,36,138,19,7,8
+"SC","Lages",4209300,18,39,8,0,0
+"SC","Laguna",4209409,16,32,0,4,0
+"SC","Mafra",4210100,12,40,16,4,2
+"SC","Pinhalzinho",4212908,0,0,0,0,0
+"SC","Praia Grande",4213807,2,0,0,3,0
+"SC","Rio Fortuna",4214904,1,0,0,0,0
+"SC","Salete",4215307,3,0,0,0,0
+"SC","São Miguel do Oeste",4217204,14,0,0,1,3
+"SC","Seara",4217501,1,0,0,2,0
+"SC","Tijucas",4218004,5,0,0,1,0
+"SC","Timbó",4218202,2,0,0,3,7
+"SC","Tubarão",4218707,72,0,0,5,5
+"SC","Tunápolis",4218756,0,0,0,0,0
+"SC","Videira",4219309,19,0,0,5,1
+"SE","Aracaju",2800308,14,0,10,47,45
+"SP","Adamantina",3500105,8,12,0,4,0
+"SP","Altinópolis",3501004,2,8,0,0,0
+"SP","Americana",3501608,26,0,10,3,2
+"SP","Américo Brasiliense",3501707,20,10,10,8,4
+"SP","Aparecida",3502507,17,20,9,5,0
+"SP","Apiaí",3502705,2,0,0,1,0
+"SP","Araçatuba",3502804,41,19,0,12,4
+"SP","Araraquara",3503208,30,20,20,1,0
+"SP","Araras",3503307,29,0,0,10,2
+"SP","Arealva",3503406,1,4,0,0,0
+"SP","Assis",3504008,41,18,15,2,1
+"SP","Barra Bonita",3505302,6,13,0,4,0
+"SP","Bastos",3505807,1,16,5,0,0
+"SP","Bernardino de Campos",3506300,2,6,0,1,0
+"SP","Borborema",3507407,1,6,0,2,0
+"SP","Bragança Paulista",3507605,55,53,21,14,7
+"SP","Brotas",3507902,1,4,2,0,0
+"SP","Cafelândia",3508801,4,19,0,0,0
+"SP","Cajobi",3509304,2,5,0,1,0
+"SP","Campos do Jordão",3509700,6,0,0,1,0
+"SP","Capivari",3510401,10,0,0,1,0
+"SP","Caraguatatuba",3510500,48,0,10,1,5
+"SP","Carapicuíba",3510609,40,0,0,6,4
+"SP","Castilho",3511003,1,6,0,1,0
+"SP","Catanduva",3511102,51,4,20,16,6
+"SP","Cerquilho",3511508,4,0,0,7,0
+"SP","Chavantes",3557204,2,5,0,0,0
+"SP","Cotia",3513009,33,32,26,38,33
+"SP","Cravinhos",3513108,1,2,0,2,0
+"SP","Cunha",3513603,5,10,0,0,0
+"SP","Dracena",3514403,15,0,1,0,0
+"SP","Espírito Santo do Pinhal",3515186,6,0,10,5,1
+"SP","Fernandópolis",3515509,18,13,6,5,1
+"SP","Franca",3516200,77,0,15,0,7
+"SP","Francisco Morato",3516309,30,0,10,14,20
+"SP","Franco da Rocha",3516408,27,0,5,21,6
+"SP","Garça",3516705,3,7,0,0,0
+"SP","General Salgado",3516903,1,0,0,0,0
+"SP","Guará",3517703,1,9,0,0,0
+"SP","Guaratinguetá",3518404,32,8,12,0,3
+"SP","Guarujá",3518701,57,0,10,5,8
+"SP","Guarulhos",3518800,26,0,0,21,2
+"SP","Herculândia",3519006,1,10,0,0,0
+"SP","Igarapava",3520103,2,6,0,0,0
+"SP","Ilha Solteira",3520442,9,12,10,2,0
+"SP","Itanhaém",3522109,23,15,20,10,10
+"SP","Itapeva",3522406,19,0,0,3,0
+"SP","Itapira",3522604,9,0,18,11,5
+"SP","Itaquaquecetuba",3523107,52,40,22,35,23
+"SP","Itu",3523909,0,0,0,3,0
+"SP","Jaboticabal",3524303,2,6,5,5,5
+"SP","Jacareí",3524402,49,2,2,6,4
+"SP","Jaci",3524501,2,0,0,20,0
+"SP","Jales",3524808,21,11,8,3,5
+"SP","Jaú",3525300,51,8,15,11,7
+"SP","José Bonifácio",3525706,3,0,0,0,0
+"SP","Jundiaí",3525904,18,0,0,0,0
+"SP","Leme",3526704,14,0,0,4,5
+"SP","Limeira",3526902,41,6,10,1,10
+"SP","Lins",3527108,1,0,0,0,0
+"SP","Lucélia",3527405,3,2,0,3,0
+"SP","Marília",3529005,104,53,39,7,13
+"SP","Martinópolis",3529203,2,10,0,0,0
+"SP","Matão",3529302,32,17,13,1,4
+"SP","Mirassol",3530300,2,0,0,0,0
+"SP","Mococa",3530508,14,0,0,4,0
+"SP","Mogi das Cruzes",3530607,35,0,0,0,0
+"SP","Mogi Guaçu",3530706,23,0,10,4,2
+"SP","Monte Alto",3531308,8,8,5,1,5
+"SP","Monte Aprazível",3531407,3,0,0,0,0
+"SP","Nhandeara",3532603,2,0,0,0,0
+"SP","Nova Odessa",3533403,4,6,0,2,0
+"SP","Olímpia",3533908,9,8,8,0,2
+"SP","Osvaldo Cruz",3534609,6,12,6,1,1
+"SP","Ourinhos",3534708,26,0,0,6,3
+"SP","Panorama",3535408,1,6,0,1,0
+"SP","Paraguaçu Paulista",3535507,11,20,5,1,1
+"SP","Pariquera-Açu",3536208,30,0,0,6,1
+"SP","Pindamonhangaba",3538006,21,30,10,2,6
+"SP","Piracicaba",3538709,82,25,26,14,23
+"SP","Pirajuí",3538907,4,0,0,0,0
+"SP","Pirassununga",3539301,17,0,0,1,0
+"SP","Pitangueiras",3539509,4,2,0,0,0
+"SP","Porto Ferreira",3540705,10,4,2,5,0
+"SP","Potirendaba",3540804,3,0,0,0,0
+"SP","Presidente Bernardes",3541208,2,4,0,1,0
+"SP","Presidente Prudente",3541406,95,44,32,16,15
+"SP","Presidente Venceslau",3541505,7,6,1,1,0
+"SP","Rancharia",3542206,14,5,1,2,0
+"SP","Registro",3542602,40,0,10,0,9
+"SP","Ribeirão Preto",3543402,92,16,16,12,9
+"SP","Rio Claro",3543907,22,10,10,9,11
+"SP","Rosana",3544251,4,4,0,0,0
+"SP","Santa Bárbara d'Oeste",3545803,19,5,5,6,1
+"SP","Santa Cruz do Rio Pardo",3546405,13,5,5,9,2
+"SP","Santa Isabel",3546801,10,6,2,10,1
+"SP","Santa Rita do Passa Quatro",3547502,5,4,0,1,0
+"SP","Santo Anastácio",3547700,1,5,0,0,0
+"SP","Santo André",3547809,99,24,27,26,41
+"SP","São João da Boa Vista",3549102,14,0,0,4,2
+"SP","São Joaquim da Barra",3549409,10,9,5,5,3
+"SP","São José do Rio Preto",3549805,39,54,36,24,7
+"SP","São José dos Campos",3549904,58,50,22,20,14
+"SP","São Paulo",3550308,1040,113,266,533,486
+"SP","São Pedro",3550407,8,5,5,2,1
+"SP","São Sebastião",3550704,5,16,2,10,3
+"SP","São Simão",3550902,1,0,0,1,0
+"SP","Sertãozinho",3551702,24,7,6,7,5
+"SP","Socorro",3552106,3,15,7,0,0
+"SP","Sorocaba",3552205,12,0,0,0,1
+"SP","Sumaré",3552403,77,34,31,1,14
+"SP","Taboão da Serra",3552809,18,0,8,7,2
+"SP","Taguaí",3553005,1,2,0,0,0
+"SP","Taquaritinga",3553708,6,29,0,2,2
+"SP","Tatuí",3554003,11,0,5,3,5
+"SP","Taubaté",3554102,59,38,10,2,3
+"SP","Teodoro Sampaio",3554300,1,34,0,0,0
+"SP","Tietê",3554508,4,0,0,1,0
+"SP","Tupã",3555000,13,14,10,6,3
+"SP","Tupi Paulista",3555109,2,10,0,1,0
+"SP","Vargem Grande do Sul",3556404,3,0,0,4,0
+"TO","Araguaína",1702109,32,6,10,5,8
+"TO","Arraias",1702406,0,2,0,0,0
+"TO","Palmas",1721000,70,20,18,0,7
+"TO","Pedro Afonso",1716505,0,8,0,0,0
