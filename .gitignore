@@ -3,6 +3,9 @@
 .RData
 .Ruserdata
 
+data/regic
+
 *.Rproj
 
 *draft1.R
+*draft2.R
